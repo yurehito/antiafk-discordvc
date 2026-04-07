@@ -26,7 +26,7 @@ iii) Keys used (Shift, Ctrl, etc.) <br>
 iv) Mouse movement range <br>
 v) Mouse vs keyboard usage ratio <br>
 vi) Discord process names (if needed) <br>
-vii) Ctrl + Alt + S → Toggle ON/OFF <br>
+vii) `Ctrl + Alt + S` → Toggle ON/OFF <br>
 
 ### 📌 Note
 
