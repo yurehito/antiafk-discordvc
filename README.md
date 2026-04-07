@@ -6,7 +6,7 @@
 
 i) Install AutoHotkey (v1) <br>
 ii) Create a new `.ahk` file <br>
-iii) Paste the script code <br>
+iii) Paste the [script code](anti_afk.ahk) <br>
 iv) Double-click to run <br>
 
 ### ⌚ Change Timing
