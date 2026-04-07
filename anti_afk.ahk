@@ -1,4 +1,4 @@
-; anti_afk_discord_optimized_fixed.ahk
+; anti_afk.ahk
 
 #NoEnv
 SendMode Input
